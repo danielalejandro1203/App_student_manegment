@@ -90,3 +90,7 @@ This project was created to practice:
 3. Database connections in Python
 4. Dialog-based UI workflows
 5. Event handling and signals/slots
+
+## 🖼️ Screens & Visualization
+
+
