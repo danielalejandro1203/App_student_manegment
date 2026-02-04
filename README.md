@@ -93,4 +93,18 @@ This project was created to practice:
 
 ## 🖼️ Screens & Visualization
 
+<img width="804" height="633" alt="image" src="https://github.com/user-attachments/assets/6b9248f6-26b9-4aa7-972e-4c4adeaa94ee" />
+
+<img width="803" height="633" alt="image" src="https://github.com/user-attachments/assets/c6f39d60-98c1-4dc1-b23b-ff783247f198" />
+
+<img width="802" height="630" alt="image" src="https://github.com/user-attachments/assets/39f085e4-3417-44b0-bd9a-717a5e12d5aa" />
+
+<img width="801" height="632" alt="image" src="https://github.com/user-attachments/assets/5d06c69d-f5de-48d7-ad1b-03acf6ac8b8c" />
+
+<img width="802" height="631" alt="image" src="https://github.com/user-attachments/assets/e9992d28-892e-4ed4-b794-a1a0702474e6" />
+
+
+
+
+
 
