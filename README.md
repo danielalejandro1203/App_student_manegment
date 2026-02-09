@@ -1,12 +1,12 @@
 # Student Management System – PyQt6
 ![Python](https://img.shields.io/badge/Python-3-blue)
-![Django](https://img.shields.io/badge/Django-6-green)
-![HTML](https://img.shields.io/badge/HTML5-orange)
-![CSS](https://img.shields.io/badge/CSS3-blue)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-5-purple)
+![PyQt6](https://img.shields.io/badge/PyQt6-GUI-purple)
+![MySQL](https://img.shields.io/badge/MySQL-Database-lightblue)
 ![CRUD](https://img.shields.io/badge/CRUD-✔️-yellow)
-![Student Management](https://img.shields.io/badge/Management-Students-lightblue)
+![Student Management](https://img.shields.io/badge/Management-Students-lightgreen)
+![Console App](https://img.shields.io/badge/App-Console-lightgrey)
 ![Status](https://img.shields.io/badge/Status-Completed-success)
+
 
 
 Desktop application built with **Python and PyQt6** that implements a complete **CRUD system**
